@@ -1,6 +1,6 @@
 # 🤖 Asha Bot – Empowering Women Returning to Work
 
-**🚀 Submitted for: Asha Hackathon 2024**  
+**🚀 Submitted for: Asha Hackathon 2025**  
 **👩‍💻 Created by: Sudarshanam Yessasvini**  
 📺 [Watch Demo](https://youtu.be/IznF9y11s84) | 🌐 [Live App](https://her-career-compass.lovable.app)
 
